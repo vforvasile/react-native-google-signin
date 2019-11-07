@@ -4,6 +4,10 @@
   <a href="https://www.npmjs.com/package/@react-native-community/google-signin"><img src="https://badge.fury.io/js/%40react-native-community%2Fgoogle-signin.svg" alt="NPM Version"></a>
 </p>
 
+## FORK to run react-native 0.59
+
+### based on react-native-google-signin version 2.1.0
+
 ## Features
 
 - Support all 3 types of authentication methods (standard, with server-side validation or with offline access (aka server side access))

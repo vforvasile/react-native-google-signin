@@ -1,6 +1,6 @@
 {
-  "name": "@react-native-community/google-signin",
-  "version": "3.0.3",
+  "name": "react-native-google-signin",
+  "version": "2.1.0",
   "description": "Google Signin for your react native applications",
   "main": "index.js",
   "author": {
