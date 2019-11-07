@@ -5,8 +5,10 @@
 </p>
 
 ## FORK to run react-native 0.59
+Based on react-native-google-signin version 2.1.0 with android fix
 
-### based on react-native-google-signin version 2.1.0
+### Warning!
+- it won't run on react-native 0.60+
 
 ## Features
 
